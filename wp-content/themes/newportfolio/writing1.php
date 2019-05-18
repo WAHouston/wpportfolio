@@ -17,10 +17,10 @@ get_header();
         <div id="writing-div">
             <h1 id="writing-title">Writing Sample One</h1>
             <div id="sample-nav">
-                    <a class="sample-link sample-nav-link" href="/writing-sample-one">Sample One</a>
-                    <a class="sample-link sample-nav-link" href="/writing-sample-two">Sample Two</a>
-                    <a class="sample-link sample-nav-link" href="/writing-sample-three">Sample Three</a>
-                    <a class="sample-link sample-nav-link" href="/writing-sample-four">Sample Four</a>
+                    <a class="sample-link sample-nav-link" href="/writing-sample-1">Sample One</a>
+                    <a class="sample-link sample-nav-link" href="/writing-sample-2">Sample Two</a>
+                    <a class="sample-link sample-nav-link" href="/writing-sample-3">Sample Three</a>
+                    <a class="sample-link sample-nav-link" href="/writing-sample-4">Sample Four</a>
             </div>
             <div id="writing-sample">
                 <p class="sample-p">Skye's The Limit Studio in Winter Park, Florida is the ultimate destination for children's theater.</p>

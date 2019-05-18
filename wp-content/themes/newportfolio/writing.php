@@ -17,19 +17,19 @@ get_header();
         <div id="writing-div">
             <h1 id="writing-title">Writing Samples</h1>
             <div id="writing-body">
-                <a class="sample-link" href="/writing-sample-one">
+                <a class="sample-link" href="/writing-sample-1">
                     <h3>Writing Sample One</h3>
                 </a>
                 <br/>
-                <a class="sample-link" href="/writing-sample-two">
+                <a class="sample-link" href="/writing-sample-2">
                     <h3>Writing Sample Two</h3>
                 </a>
                 <br/>
-                <a class="sample-link" href="/writing-sample-three">
+                <a class="sample-link" href="/writing-sample-3">
                     <h3>Writing Sample Three</h3>
                 </a>
                 <br/>
-                <a class="sample-link" href="/writing-sample-four">
+                <a class="sample-link" href="/writing-sample-4">
                     <h3>Writing Sample Four</h3>
                 </a>
             </div>
