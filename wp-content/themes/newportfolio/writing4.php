@@ -23,9 +23,7 @@ get_header();
                     <a class="sample-link sample-nav-link" href="/writing-sample-4">Sample Four</a>
             </div>
             <div id="writing-sample">
-                <p class="sample-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam rhoncus pharetra leo, nec ullamcorper libero aliquam vitae. Vivamus gravida aliquet nisl sit amet accumsan. Nullam tempor nibh suscipit, mollis enim id, rutrum orci. Nulla vitae nibh at lectus elementum egestas. Nullam quis risus ac libero feugiat ullamcorper. Vivamus posuere nulla nunc, efficitur ultrices sem dictum a. Integer malesuada nulla nec quam aliquet, ut dictum nibh ultrices. Phasellus eu vestibulum purus.</p>
-                <p class="sample-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam rhoncus pharetra leo, nec ullamcorper libero aliquam vitae. Vivamus gravida aliquet nisl sit amet accumsan. Nullam tempor nibh suscipit, mollis enim id, rutrum orci. Nulla vitae nibh at lectus elementum egestas. Nullam quis risus ac libero feugiat ullamcorper. Vivamus posuere nulla nunc, efficitur ultrices sem dictum a. Integer malesuada nulla nec quam aliquet, ut dictum nibh ultrices. Phasellus eu vestibulum purus.</p>
-                <p class="sample-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam rhoncus pharetra leo, nec ullamcorper libero aliquam vitae. Vivamus gravida aliquet nisl sit amet accumsan. Nullam tempor nibh suscipit, mollis enim id, rutrum orci. Nulla vitae nibh at lectus elementum egestas. Nullam quis risus ac libero feugiat ullamcorper. Vivamus posuere nulla nunc, efficitur ultrices sem dictum a. Integer malesuada nulla nec quam aliquet, ut dictum nibh ultrices. Phasellus eu vestibulum purus.</p>
+                <p class="sample-p">Coming Soon</p>
             </div>
         </div>
     </div>

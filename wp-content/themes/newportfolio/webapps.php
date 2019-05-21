@@ -33,7 +33,7 @@ get_header();
                     <h3 class="link-heading">Parker's Podcast</h3>
                     <p class="link-description">A work in progress, this site will host Parker Smith's podcast coming in late 2019.</p>
                 </a>
-                <a class="app-link" href="" target="_blank">
+                <a class="app-link" href="http://stlhub.herokuapp.com/" target="_blank">
                     <h3 class="link-heading">Skye's The Limit Theater App</h3>
                     <p class="link-description">Book show tickets, voice lessons, children's summer camps and more with this app that powers Skye's The Limit Studio.</p>
                 </a>
